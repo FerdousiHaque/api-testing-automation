@@ -1,6 +1,6 @@
 # Overview
 
-This project has been designed to serve all API test cases for all sites with reusable functionality. It checks api data for the desktop, tablet and mobile version. It’s Scalable, Robust and easy to maintain. It provides automation testing both pruction and staging version.
+This project has been designed to serve all API test cases for all sites with reusable functionality. It’s Scalable, Robust and easy to maintain. It provides automation testing both pruction and staging version.
 
 ## Tools and Technologies
 
@@ -8,7 +8,6 @@ This project has been designed to serve all API test cases for all sites with re
   - Java
   - testng (v 7.1.0)
   - rest-assured (v 4.3.0)
-  - okhttp (v 2.7.5)
   - assertj-core (v 3.9.1)
   - json (v 20171018)
   
